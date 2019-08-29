@@ -1,0 +1,18 @@
+Go inside your terminal
+cd to the location where you want to create the folder
+
+1. mkdir "name of folder" and cd into that folder
+   ex. mkdir basic_repo
+2. git init once inside folder
+3. Create files (ex. touch index.html style.css script.js)
+4. git add . (The . adds all the files at once)
+5. git commit -m "message is typed here"
+6. git remote add origin https://github.com/davenaugler/....
+8. git push -u origin master
+9. code folder "name of folder" (to open fodler in VS Code)
+10. Add, change, etc. to code then go back into terminal and type...
+11. git commit -m "type message here"
+12. git push
+13. And everything you changed is now on GitHub
+
+
